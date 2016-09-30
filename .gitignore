@@ -1,0 +1,6 @@
+/Examen/build/
+/Examen/nbproject/private/
+*.class 
+*.jar 
+*.war 
+*.ear 
